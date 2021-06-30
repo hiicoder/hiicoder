@@ -15,6 +15,7 @@ A fullstack web developer.<br>
 <hr>
 <h2>check out my projects. links down below</h2> 
 <ul>
+  <li><a href="https://hiicoder.github.io/sunnyside/index">sunnyside landing page</li>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/batman.git.io/">Batman static web</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
