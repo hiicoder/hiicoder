@@ -22,6 +22,7 @@ A fullstack web developer.<br>
   <li><a href="https://hiicoder.github.io/sunnyside/index">sunnyside landing page</li>
   <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
   <li><a href="https://hiicoder.github.io/batman.git.io/">Batman static web</a></li>
+  <li><a href="https://hiicoder.github.io/3-column-card/">3-column-card</a></li>
   <h3>Javascript</h3>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
