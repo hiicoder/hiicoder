@@ -15,17 +15,20 @@ A fullstack web developer.<br>
 <hr>
 <h2>check out my projects. links down below</h2> 
 <ul>
+  <h3>Html and css</h3>
+  <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
+  <li><a href="https://hiicoder.github.io/tea/Assignment6.html">Masala Tea</a></li>
+  <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
   <li><a href="https://hiicoder.github.io/sunnyside/index">sunnyside landing page</li>
+  <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
+  <h3>Javascript</h3>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/batman.git.io/">Batman static web</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
-  <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
-  <li><a href="https://hiicoder.github.io/tea/Assignment6.html">Masala Tea</a></li>
   <li><a href="https://hiicoder.github.io/learn/project.html">Note App</a></li>
   <li><a href="https://hiicoder.github.io/learn/calc.html">Calculator</a></li>
-  <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
   <li><a href="https://hiicoder.github.io/Userlist/index">userlist using js</a></li>
- <h3>Some React application</h3>
+  <h3>Some React application</h3>
   <li><a href="https://hizoomer.herokuapp.com/">Zoom clone</a></li>
   <li><a href="https://covid-virus.herokuapp.com">Covid tracker</a></li>
   <li><a href="https://hiichat.herokuapp.com/">Group chat app</a></li>
