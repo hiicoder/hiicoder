@@ -11,6 +11,7 @@ A fullstack web developer.<br>
   <li><a href="https://www.instagram.com/hiicoder/">Instagram (@hiicoder)</a></li>
    <li><a href="https://twitter.com/hiicoder">Twitter</a></li>
   <li><a href="https://www.sololearn.com/Profile/18825934">Sololearn</a></li>
+  <li><a href="https://codepen.io/hiicoder" target="_blank">Codepen</li>
 </ul>
 <hr>
 <h2>check out my projects. links down below</h2> 
