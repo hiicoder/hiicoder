@@ -16,7 +16,7 @@ A fullstack web developer.<br>
 <hr>
 <h2>check out my projects. links down below</h2> 
 <ul>
-  <h3>Html and css</h3>
+  <h3>Html and css and bootstrap</h3>
   <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
   <li><a href="https://hiicoder.github.io/tea/Assignment6.html">Masala Tea</a></li>
   <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
@@ -26,6 +26,7 @@ A fullstack web developer.<br>
   <li><a href="https://hiicoder.github.io/3-column-card/">3-column-card</a></li>
   <li><a href="https://hiicoder.github.io/Responsive-layout/sololearn.html">responsive page</a></li>
   <li><a href="https://hiicoder.github.io/surveyForm/surveyform.html">Survey Form using bootstrap</a></li>
+  <li><a href="https://hiicoder.github.io/fcc-landing-page/index">Freecodecamp landing page</a></li>  
   <h3>Javascript</h3>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
