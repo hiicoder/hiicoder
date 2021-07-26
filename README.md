@@ -28,6 +28,7 @@ A fullstack web developer.<br>
   <li><a href="https://hiicoder.github.io/surveyForm/surveyform.html">Survey Form using bootstrap</a></li>
   <li><a href="https://hiicoder.github.io/fcc-landing-page/index">Freecodecamp landing page</a></li>  
   <h3>Javascript</h3>
+  <li><a href="https://hiicoder.github.io/cat-clicker/catClicker">cat clicker</a></li>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
   <li><a href="https://hiicoder.github.io/learn/project.html">Note App</a></li>
