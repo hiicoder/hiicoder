@@ -6,13 +6,12 @@ A fullstack web developer.<br>
 <br>
 🌱 I’m currently learning ... 😄😄😄😄😄😄😄😄.
 <h2>- 📫 How to reach me: ...</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/himanshukr1320/">Linkedin</a></li>
-  <li><a href="https://www.instagram.com/hiicoder/">Instagram (@hiicoder)</a></li>
-   <li><a href="https://twitter.com/hiicoder">Twitter</a></li>
-  <li><a href="https://www.sololearn.com/Profile/18825934">Sololearn</a></li>
-  <li><a href="https://codepen.io/hiicoder" target="_blank">Codepen</li>
-</ul>
+<a href="https://www.linkedin.com/in/himanshukr1320/">Linkedin</a> |
+  <a href="https://www.instagram.com/hiicoder/">Instagram (@hiicoder)</a> |
+   <a href="https://twitter.com/hiicoder">Twitter</a> |
+  <a href="https://www.sololearn.com/Profile/18825934">Sololearn</a> |
+  <a href="https://codepen.io/hiicoder" target="_blank">Codepen 
+
 <hr>
 <h2>check out my projects. links down below</h2> 
 
