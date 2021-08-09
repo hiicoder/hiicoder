@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1 style="display:inline-block">About Me</h1>
 <img src="/img/heart.png" alt="heart" width="50px" height = "50px">
 
