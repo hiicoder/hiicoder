@@ -1,5 +1,6 @@
+<h1 style="display:inline-block">About Me</h1>
 <img src="/img/heart.png" alt="heart" width="50px" height = "50px">
-<h1>About Me</h1>
+
 ### Hi there 👋
 Welcome to my Github profile.<br>
 I am <strong>Himanshu Kumar</strong>.<br>
