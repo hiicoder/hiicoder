@@ -1,4 +1,4 @@
-<img src="/image/heart.png">
+<img src="/image/heart.png" alt="heart" width="50px" height = "50px">
 <h1>About Me</h1>
 ### Hi there 👋
 Welcome to my Github profile.<br>
