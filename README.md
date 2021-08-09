@@ -1,4 +1,4 @@
-img src="/image/heart.png">
+<img src="/image/heart.png">
 <h1>About Me</h1>
 ### Hi there 👋
 Welcome to my Github profile.<br>
