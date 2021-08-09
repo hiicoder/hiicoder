@@ -15,6 +15,8 @@ A fullstack web developer.<br>
 </ul>
 <hr>
 <h2>check out my projects. links down below</h2> 
+
+<div style="backgroud-color:blue">
 <ul>
   <h3>Html and css and bootstrap</h3>
   <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
@@ -27,7 +29,8 @@ A fullstack web developer.<br>
   <li><a href="https://hiicoder.github.io/Responsive-layout/sololearn.html">responsive page</a></li>
   <li><a href="https://hiicoder.github.io/surveyForm/surveyform.html">Survey Form using bootstrap</a></li>
   <li><a href="https://hiicoder.github.io/fcc-landing-page/index">Freecodecamp landing page</a></li>  
-  <h3>Javascript</h3>
+  
+   <h3>Javascript</h3>
   <li><a href="https://hiicoder.github.io/cat-clicker/catClicker">cat clicker</a></li>
   <li><a href="https://hiicoder.github.io/tik-tak-toe/">Tic tak toe game</a></li>
   <li><a href="https://hiicoder.github.io/compondcalc/calculator.html">compound calc</a></li>
@@ -39,7 +42,8 @@ A fullstack web developer.<br>
   <li><a href="https://covid-virus.herokuapp.com">Covid tracker</a></li>
   <li><a href="https://hiichat.herokuapp.com/">Group chat app</a></li>
 </ul>
-<hr>
+</div>
+  <hr>
  
 <!--
 **hiiSunny/hiiSunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
