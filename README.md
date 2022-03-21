@@ -22,8 +22,7 @@ A fullstack web developer.<br>
 <ul>
   <h3>Unity Projects</h3>
   <li><a href="https://play.unity.com/mg/lego/my-new-microgame-5989">microgame</a></li>
-  <h3>.Net application</h3>
-    <li><a href=""</li>
+  
   <h3>Html and css and bootstrap</h3>
     <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
     <li><a href="https://hiicoder.github.io/tea/Assignment6.html">Masala Tea</a></li>
