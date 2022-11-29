@@ -5,7 +5,7 @@
 ### Hi there 👋
 Welcome to my Github profile.<br>
 I am <strong>Himanshu Kumar</strong>.<br>
-A fullstack web developer and Unity3D Developer.<br>
+AR-VR / Unity3D Developer and fullstack web developer.<br>
 <br>
 🌱 I’m currently learning ... 😄😄😄😄😄😄😄😄.
 <h2>- 📫 How to reach me: ...</h2>
