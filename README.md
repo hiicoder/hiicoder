@@ -1,12 +1,19 @@
 <link rel="stylesheet" href="style.css">
 <h1 style="display:inline-block">About Me</h1>
-<!--<img src="/img/heart.png" alt="heart" width="50px" height = "50px">-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" />
 ### Hi there 👋
 Welcome to my Github profile.<br>
 I am <strong>Himanshu Kumar</strong>.<br>
 AR-VR / Unity3D Developer and fullstack web developer.<br>
-<br>
+<hr>
+
+<!--<img src="/img/heart.png" alt="heart" width="50px" height = "50px">-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&theme=dracula&hide_langs_below=1" />
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&layout=compact" alt="Anoop114" /></p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiicoder&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
+
+
 🌱 I’m currently learning ... 😄😄😄😄😄😄😄😄.
 <h2>- 📫 How to reach me: ...</h2>
 <font color =  "red"><a href="https://www.linkedin.com/in/himanshukr1320/">Linkedin</a> |
