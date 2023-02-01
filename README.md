@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <h1 style="display:inline-block">About Me</h1>
 <!--<img src="/img/heart.png" alt="heart" width="50px" height = "50px">-->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoop114&theme=dracula&hide_langs_below=1" />
 ### Hi there 👋
 Welcome to my Github profile.<br>
 I am <strong>Himanshu Kumar</strong>.<br>
