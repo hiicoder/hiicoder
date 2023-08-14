@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <h1 style="display:inline-block">About Me</h1>
 ### Hi there 👋
-Welcome to my Github profile.<br>
+Welcome to my GitHub profile.<br>
 I am <strong>Himanshu Kumar</strong>.<br>
 AR-VR / Unity3D Developer and fullstack web developer.<br>
 <hr>
@@ -11,7 +11,7 @@ AR-VR / Unity3D Developer and fullstack web developer.<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&layout=compact" alt="Anoop114" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiicoder&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiicoder&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats" />-->
 
 
 🌱 I’m currently learning ... 😄😄😄😄😄😄😄😄.
@@ -23,23 +23,23 @@ AR-VR / Unity3D Developer and fullstack web developer.<br>
   <a href="https://codepen.io/hiicoder" target="_blank">Codepen
     </font>
 <hr>
-<h2>check out my projects. links down below</h2> 
+<h2> Check out my projects. links down below</h2> 
 
-<div style="backgroud-color:blue">
+<div style="background-color: blue">
 <ul>
   <h3>Unity Projects</h3>
   <li><a href="https://play.unity.com/mg/lego/my-new-microgame-5989">microgame</a></li>
   <li><a href="https://hiicoder.github.io/AR_SolarSystem/">Solar System AR Experience</a></li>
   <h3>AR VR Projects video Links</h3>
   <li><a href ="https://youtu.be/fW8m0xEsUQE">AR Space Shuttle</a>
-  <li><a href ="https://youtu.be/MDtZ2KXTTxM">AR Skeleton System Eductional Experience</a>
+  <li><a href ="https://youtu.be/MDtZ2KXTTxM">AR Skeleton System Educational Experience</a>
   <li><a href ="https://youtu.be/wNyC4Ns9zLs">VR experience of House</a>
   <li><a href ="https://youtu.be/60arK4nKCGA">VR Shooting Game</a>
     
   
 <!--   //<li><a href="https://hiicoder.github.io/AR_SolarSystem/">Space Shuttle AR Experience</a></li>
   <li><a href="https://hiicoder.github.io/AR_SolarSystem/">Skeleton System AR Experience</a></li> -->
-  <h3>Html and css and bootstrap</h3>
+  <h3>Html and CSS and bootstrap</h3>
     <li><a href="https://hiicoder.github.io/sohppin/index.html">shopping site</a></li>
     <li><a href="https://hiicoder.github.io/tea/Assignment6.html">Masala Tea</a></li>
     <li><a href="https://hiicoder.github.io/singlepageweb/">Singlepagewebsite</a></li>
