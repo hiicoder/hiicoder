@@ -7,7 +7,7 @@ AR-VR / Unity3D Developer and fullstack web developer.<br>
 <hr>
 
 <!--<img src="/img/heart.png" alt="heart" width="50px" height = "50px">-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&theme=dracula&hide_langs_below=1" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&theme=dracula&hide_langs_below=1" />-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiicoder&layout=compact" alt="Anoop114" /></p>
 
